@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/CivicSim" >
+        <file>anythingmapping.png</file>
+    </qresource>
+</RCC>
